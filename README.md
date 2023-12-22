@@ -1,5 +1,6 @@
 # simple-regex-engine
 
+![](https://github.com/thanhtranna/simple-regex-engine/actions/workflows/go.yml/badge.svg)
 
 A very simple regex engine written in go. This library is experimental, use it at your own risk!
 
